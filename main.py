@@ -8,6 +8,7 @@ def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
     print(f'Hi, {name}')  # Press ⌘F8 to toggle the breakpoint.
     print("This is added using git bash: New feature:: HELLO {}".format(name))
+    print("This is branch: {}".format('branch1'))
 
 
 # Press the green button in the gutter to run the script.
