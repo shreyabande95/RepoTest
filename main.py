@@ -10,8 +10,7 @@ def print_hi(name):
     print("This is added using git bash: New feature:: HELLO {}".format(name))
     print("This is branch: {}".format('branch1'))
     print("This line came from branch3!!")
-
-
+    print("learning successful!!!")
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
